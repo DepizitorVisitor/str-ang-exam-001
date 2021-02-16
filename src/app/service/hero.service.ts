@@ -11,30 +11,30 @@ export class HeroService {
       "id": 1, 
       "name": "Süsü",
       "superPower": "Egyfejű",
-      "address": "barlang"
+      "address": "Barlang"
     },
     {
       "id": 2, 
       "name": "Vuk",
       "superPower": "Nem eszi meg tást",
-      "address": "barlang"
+      "address": "Rókaluk"
     },
     {
       "id": 3, 
       "name": "Főkukac",
-      "superPower": "beszél",
-      "address": "horgászládában"
+      "superPower": "Beszél",
+      "address": "Horgászláda"
     },
     {
       "id": 4, 
       "name": "Vizipók",
-      "superPower": "Tud beszélni",
+      "superPower": "Víz alatt él",
       "address": "Nagy tó"
     },
     {
       "id": 5, 
       "name": "Királylány",
-      "superPower": "kiabálni",
+      "superPower": "Tud kiabálni",
       "address": "Vártorony"
     },
   ];
