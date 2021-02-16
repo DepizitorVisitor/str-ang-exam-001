@@ -1,0 +1,18 @@
+<table class="table">
+    <thead>
+        <tr>
+            <th>id</th>
+            <th>name</th>
+            <th>superPower</th>
+            <th>address</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let hero of heroList">
+            <td>{{ hero.id }}</td>
+            <td>{{ hero.name }}</td>
+            <td>{{ hero.superPower }}</td>
+            <td>{{ hero.address }}</td>
+        </tr>
+    </tbody>
+</table>
